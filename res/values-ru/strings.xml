@@ -31,13 +31,13 @@
     <string name="touchscreen_flashlight_gesture_summary">Нарисуйте круг, чтобы включить или выключить фонарик</string>
     <string name="touchscreen_music_gesture_title">Музыка</string>
     <string name="touchscreen_music_gesture_summary">Использовать жесты для управления воспроизведением музыки \n
-    • Свайп вниз — воспроизведение/пауза\n
-    • Свайп влево — предыдущий трек\n
-    • Свайп вправо — следующий трек</string>
-    <string name="touchscreen_swipe_up_title">Свайп вверх</string>
-    <string name="touchscreen_swipe_right_title">Свайп вправо</string>
-    <string name="touchscreen_swipe_down_title">Свайп вниз</string>
-    <string name="touchscreen_swipe_left_title">Свайп влево</string>
+    • Смахивание вниз — воспроизведение/пауза\n
+    • Смахивание влево — предыдущий трек\n
+    • Смахивание вправо — следующий трек</string>
+    <string name="touchscreen_swipe_up_title">Смахивание вверх</string>
+    <string name="touchscreen_swipe_right_title">Смахивание вправо</string>
+    <string name="touchscreen_swipe_down_title">Смахивание вниз</string>
+    <string name="touchscreen_swipe_left_title">Смахивание влево</string>
     <string name="user_aware_display_title">Интеллектуальное откл. экрана</string>
     <string name="user_aware_display_summary">Не отключать экран, пока пользователь находится перед ним</string>
     <string name="ambient_display_title">Индикация событий</string>
@@ -149,7 +149,7 @@
     <string name="doze_brightness_low">Низкая яркость</string>
     <string name="doze_brightness_high">Высокая яркость</string>
     <string name="doze_brightness_adaptive">Адаптивная яркость</string>
-    <string name="alert_slider_category_title">Переключатель оповещений </string>
+    <string name="alert_slider_category_title">Боковой переключатель</string>
     <string name="alert_slider_selection_dialog_title">Действие</string>
     <string name="alert_slider_top_position">Верхнее положение</string>
     <string name="alert_slider_middle_position">Среднее положение</string>
